@@ -32,7 +32,7 @@ a {
 
 .main-div {
     overflow: hidden;
-    background-image: url(https://i.pinimg.com/736x/33/bb/a0/33bba04cb8143b1a24bbd68769377b47.jpg);
+    background-image: url(../images/bg.jpg);
     background-size: contain;
 }
 
@@ -407,3 +407,4 @@ img {
         text-align: center;
     }
 }
+
